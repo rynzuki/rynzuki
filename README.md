@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Yannic
 
-<!--
-**rynzuki/rynzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer fluent in **TypeScript** with a strong passion for building clean, performant, and scalable applications. My go-to frontend framework is **Svelte**, and I also work across the stack using **Rust**, **C++**, **C#**, and **NestJS** for backend development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend**
+- 💚 Svelte (primary framework)
+- 🔷 TypeScript
+- 📦 Vite, TailwindCSS, HTML5/CSS3
+
+**Backend**
+- 🚀 NestJS (Node.js + TypeScript)
+- 🦀 Rust (for performance-critical services)
+- 💻 C# / .NET
+- 💡 C++
+- 🐘 PHP
+
+**Tools & Misc**
+- 🧪 Jest, Vitest, Playwright
+- 📦 pnpm, Cargo, MSBuild
+- 🛠 Git, GitHub Actions, Docker
+
+---
+
+## 🌱 Currently Exploring
+- WASM with Rust and Svelte
+- Systems programming with Rust & C++
+- Clean architecture patterns in fullstack projects
+
+---
+
+_Thanks for stopping by!_
