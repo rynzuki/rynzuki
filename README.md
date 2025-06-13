@@ -25,11 +25,4 @@ I'm a developer fluent in **TypeScript** with a strong passion for building clea
 
 ---
 
-## 🌱 Currently Exploring
-- WASM with Rust and Svelte
-- Systems programming with Rust & C++
-- Clean architecture patterns in fullstack projects
-
----
-
 _Thanks for stopping by!_
